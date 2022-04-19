@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pe.com.serviciorest.ServicioRest02ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.669 s - in pe.com.serviciorest.ServicioRest02ApplicationTests
