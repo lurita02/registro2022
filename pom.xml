@@ -14,7 +14,7 @@
 	<name>ServicioRest</name>
 	<description>Proyecto Servicio Rest</description>
 	<properties>
-		<java.version>11</java.version>
+		
 	</properties>
 	<dependencies>
 		<dependency>
